@@ -1,0 +1,25 @@
+.direction {
+    height: 100px;
+
+    .direction-box {
+        height: 150px;
+        display: flex;
+        justify-content: center;
+
+        .down {
+            max-width: 60px;
+            max-height: 60px;
+        }
+    }
+}
+
+/*animation*/
+.down {
+    animation: moveArrowDown 1.5s 0s infinite;
+}
+
+
+@keyframes moveArrowDown {
+    0% {transform: translateY(0px)}
+	100% {transform: translateY(30px)}
+}

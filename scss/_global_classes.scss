@@ -1,0 +1,41 @@
+* {
+    font-family: 'Mukta', sans-serif;
+}
+html, body {
+    width: 100%;
+    height: 100%;
+    font-size: 16px;
+
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1040px;
+}
+
+.choose-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+.btn {
+    padding: 12px 30px;
+    border-radius: 7px;
+    font-size: 1rem;
+    font-weight: 800;
+    justify-content: center;
+    color: $colorQuaternary;
+    display: block;
+    background-color: $colorSecondary;
+    transition: 0.5s;
+    text-transform: uppercase;
+    border: 1px solid $colorSecondary;
+}
+
+.btn:hover {
+    background-color: $colorTertiary;
+    border: 1px solid $colorTertiary;
+}

@@ -1,0 +1,29 @@
+.main-nav {
+    background-color: $colorPrimary;
+    width: 100%;
+
+
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+
+
+        ul li {
+            text-align: center;
+            display: inline-block;
+            font-size: 0.9rem;
+            // font-weight: bold;
+            color: $colorTertiary;
+            padding: 0 2px;
+
+
+        }
+    }
+}
+
+.main-nav .container ul li.activee {
+    font-weight: bold;
+    color: $colorSecondary;
+}
