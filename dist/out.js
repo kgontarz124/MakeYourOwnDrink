@@ -14541,7 +14541,7 @@ var MainIntroduction = function (_React$Component) {
                                     _react2.default.createElement(
                                         'h1',
                                         { className: 'main-title' },
-                                        'Would you like something special to dring?'
+                                        'Would you like something special to drink?'
                                     ),
                                     _react2.default.createElement(
                                         _reactRouter.IndexLink,
