@@ -43,7 +43,7 @@ class MainIntroduction extends React.Component {
                             </div>
                             <div className="col-6-12">
                                 <div className="text-introduction">
-                                    <h1 className="main-title">Would you like something special to dring?</h1>
+                                    <h1 className="main-title">Would you like something special to drink?</h1>
                                         <IndexLink to="/main_header" className="choose-btn">
                                             <button className="btn" type="button" name="button" onClick={this.moveToMainHeader}>Check how to do it  &gt;</button>
                                     </IndexLink>
