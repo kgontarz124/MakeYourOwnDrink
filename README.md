@@ -15,7 +15,7 @@ This app will allow you to check the recipes of the most varied drinks for the f
 * cocoa,
 * and other.
 
-Break dullness and try something new. Invite Your friends!
+Break dullness and try something new. Invite Your friends!:tropical_drink::simple_smile:
 
 
 ## Usage
@@ -25,8 +25,9 @@ To try it You can click on this link: https://kgontarz124.github.io/MakeYourOwnD
 ## Development
 
 If you want to develop on Make Your Own Drink you can clone the code:
-
+```
 git clone https://github.com/kgontarz124/MakeYourOwnDrink.git
 cd MakeYourOwnDrink
 npm install
 npm start
+```
