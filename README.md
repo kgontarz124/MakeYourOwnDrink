@@ -3,17 +3,17 @@
 Are you bored with ordinary beverages? Would you like to try something new?
 This app will allow you to check the recipes of the most varied drinks for the following categories:
 
-*ordinary drink,
-*cocktail,
-*shot,
-*party drink,
-*beer,
-*liqueur,
-*soft drink,
-*coffee/tea,
-*milk/float/shake,
-*cocoa,
-*and other.
+* ordinary drink,
+* cocktail,
+* shot,
+* party drink,
+* beer,
+* liqueur,
+* soft drink,
+* coffee/tea,
+* milk/float/shake,
+* cocoa,
+* and other.
 
 Break dullness and try something new. Invite Your friends!
 
@@ -26,7 +26,7 @@ To try it You can click on this link: https://kgontarz124.github.io/MakeYourOwnD
 
 If you want to develop on Make Your Own Drink you can clone the code:
 
-git clone git@github.com:kgontarz124/MakeYourOwnDrink
+git clone https://github.com/kgontarz124/MakeYourOwnDrink.git
 cd MakeYourOwnDrink
 npm install
 npm start
