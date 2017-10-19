@@ -15,7 +15,7 @@ This app will allow you to check the recipes of the most varied drinks for the f
 * cocoa,
 * and other.
 
-Break dullness and try something new. Invite Your friends!:simple_smile:
+Break dullness and try something new. Invite Your friends!:tropical_drink::yum:
 
 
 ## Usage
