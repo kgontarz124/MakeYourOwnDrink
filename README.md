@@ -26,7 +26,7 @@ To try it You can click on this link: https://kgontarz124.github.io/MakeYourOwnD
 
 If you want to develop on Make Your Own Drink you can clone the code:
 
-git clone https://github.com/kgontarz124/MakeYourOwnDrink.git
+git clone git@github.com:kgontarz124/MakeYourOwnDrink
 cd MakeYourOwnDrink
 npm install
 npm start
