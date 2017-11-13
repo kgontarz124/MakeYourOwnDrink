@@ -1,10 +1,7 @@
+
 # Make Your Own Drink
 
-<<<<<<< HEAD
-# Make Your Own Drink
 
-=======
->>>>>>> 7fb9ac9b82849a531f69e3b19ebb4d536eadd90a
 Are you bored with ordinary beverages? Would you like to try something new?
 This app will allow you to check the recipes of the most varied drinks for the following categories:
 
@@ -25,11 +22,7 @@ Break dullness and try something new. Invite Your friends!:tropical_drink::yum:
 
 ## Usage
 To try it You can click on this link: https://kgontarz124.github.io/MakeYourOwnDrink/#/
-<<<<<<< HEAD
 
-=======
- 
->>>>>>> 7fb9ac9b82849a531f69e3b19ebb4d536eadd90a
 
 ## Development
 
